@@ -9,7 +9,7 @@ window.WEDDING_DATA = {
       name: "Pushpender",
       fullName: "Pushpender Chaudhary",
       line: "S/o Smt. Reetu Devi & Sh. Vijender Kumar",
-      note: "Beloved grandson of Late Smt. Leela Devi & Late Sh. Soran Singh, Village Gajdinpur, District Saharanpur (U.P.).",
+      note: "Village Gajdinpur, P.O. Bartha Kayasth, District Saharanpur (U.P.)",
       photo: "./editable/assets/groom.png",
     },
     bride: {
@@ -22,22 +22,22 @@ window.WEDDING_DATA = {
   },
 
   wedding: {
-    dateISO: "2026-02-10T05:00:00+05:30",
-    endISO: "2026-02-10T11:00:00+05:30",
+    dateISO: "2027-02-10T05:00:00+05:30",
+    endISO: "2027-02-10T11:00:00+05:30",
     saveTheDateDay: "10",
-    saveTheDateMonthYear: "February 2026",
-    dateLabel: "Wednesday, 10 February 2026",
-    dateShort: "10 · 02 · 2026",
+    saveTheDateMonthYear: "February 2027",
+    dateLabel: "Wednesday, 10 February 2027",
+    dateShort: "10 · 02 · 2027",
     timeLabel: "Sehra Bandhi · 4:00 AM | Dep. of Barat · 5:00 AM",
-    muhurthamLabel: "Wedding Ceremony · 10th Feb 2026",
-    footerDateLocation: "10 · 02 · 2026 · Saharanpur (U.P.)",
+    muhurthamLabel: "Wedding Ceremony · 10th Feb 2027",
+    footerDateLocation: "10 · 02 · 2027 · Saharanpur (U.P.)",
   },
 
   venue: {
     name: "Village Gajdinpur",
     address: "P.O. Bartha Kayasth, District Saharanpur (U.P.)",
     locationShort: "Saharanpur, U.P.",
-    mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gajdinpur+Bartha+Kayasth+Saharanpur+Uttar+Pradesh",
+    mapsUrl: "https://maps.google.com?ftid=0x390ee50052366195:0xc8dd81d2c1f03c1d&entry=gps&shh=CAE&lucs=,94231188,100821555,47071704,94218641,100849091,100838877,121816461,100798797&g_st=iw",
   },
 
   invitation: {
@@ -58,13 +58,13 @@ window.WEDDING_DATA = {
 
   programme: [
     {
-      day: "Monday, 08th Feb 2026",
+      day: "Monday, 08th Feb 2027",
       events: [
         { name: "Ladies Sangeet", time: "7:00 PM" },
       ],
     },
     {
-      day: "Tuesday, 09th Feb 2026",
+      day: "Tuesday, 09th Feb 2027",
       events: [
         { name: "Havan", time: "7:00 AM" },
         { name: "Mandha", time: "9:00 AM" },
@@ -72,7 +72,7 @@ window.WEDDING_DATA = {
       ],
     },
     {
-      day: "Wednesday, 10th Feb 2026",
+      day: "Wednesday, 10th Feb 2027",
       events: [
         { name: "Sehra Bandhi", time: "4:00 AM" },
         { name: "Dep. of Barat", time: "5:00 AM" },
